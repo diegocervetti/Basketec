@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47e076b41611d3a2ce14796d882641d70dffa8e5">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\instant-run_cbc35ebfe8d9d0e0824b81d35b3a0ea3d4884a55.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\Clases\MOVIL\AppsBuild\BaskApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d8188063eb7992ed545682ca66c70ec53f5b7d">
+        <dex dex="F:\EEST1\2016\Clases\MOVIL\AppsBuild\BaskApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ea21eed65790505481d4ad14db801b2c44bdb81b.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_d1383fc36d85ab1f734baac75de6925f20a51bea.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_5e8b080e788baeeddd98cd8da6d7a47a8122e608.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.15\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65067ef43929b76e5425aa6752d73fa4d4a80ed7">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.1.15_09d8207c617f4351de50227a4ca3a08b99358c96.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_f94c8462f6dbcbbcdf7f5f918ecd632fc14f532c.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_e0d77c71225e8d9902f4ae15206cc92385141226.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6085338b38626eb732f47ebb464120283dfa4d47.jar" />
+    </item>
+    <item
+        jar="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ebad1b13cbca67b28c0f7b88be14181484cc55">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6ada62b3e8b640f55e6c1a63a69c4cc5ae093cf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\casa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\EEST1\2016\BaskeTec\Repo\Basketec\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f76802241ba8a3f7acba464b5ca6aea43d70fa70.jar" />
+    </item>
+
+</items>
