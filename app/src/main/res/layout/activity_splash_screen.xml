@@ -5,7 +5,8 @@
     android:background="#FFC107"
     android:id="@+id/splash_layout"
     android:gravity="center"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    >
 
     <pl.droidsonroids.gif.GifImageView
         android:id="@+id/logo"
